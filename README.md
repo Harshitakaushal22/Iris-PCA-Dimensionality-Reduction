@@ -11,7 +11,7 @@ This project demonstrates how to reduce the dimensions of the famous Iris datase
 - Scikit-learn
 - Pandas
 - Seaborn
-- Matplotlib
+
 
 ## 📊 Results
 - The dataset was reduced from 4 features to 2 principal components.
